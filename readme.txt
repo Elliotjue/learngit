@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 My stupid boss still prefers SVN.
 no changes added to commit (use "git add" and/or "git commit -a")
+cat readme.txt
